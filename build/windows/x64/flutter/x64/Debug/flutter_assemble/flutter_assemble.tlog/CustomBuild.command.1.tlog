@@ -1,0 +1,28 @@
+^D:\DOCUMENTS\UNIVERSIDAD\SERVICIO_SOCIAL\RPSP_PROYECT\RPSP_MAIN\BUILD\WINDOWS\X64\CMAKEFILES\90ECED89015A7544EE1193B2C3EEDDB4\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral PROJECT_DIR=D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main FLUTTER_TARGET=D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8wNDgxN2M5OWM5ZmQ0OTU2ZjI3NTA1MjA0ZjdlMzQ0MzM1ODEwYWVkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\UNIVERSIDAD\SERVICIO_SOCIAL\RPSP_PROYECT\RPSP_MAIN\BUILD\WINDOWS\X64\CMAKEFILES\573AF16A120BB285528C37C12F44C58F\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\UNIVERSIDAD\SERVICIO_SOCIAL\RPSP_PROYECT\RPSP_MAIN\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/Documents/UNIVERSIDAD/Servicio_Social/rpsp_proyect/rpsp_main/windows -BD:/Documents/UNIVERSIDAD/Servicio_Social/rpsp_proyect/rpsp_main/build/windows/x64 --check-stamp-file D:/Documents/UNIVERSIDAD/Servicio_Social/rpsp_proyect/rpsp_main/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

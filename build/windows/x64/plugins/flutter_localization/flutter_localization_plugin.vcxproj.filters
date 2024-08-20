@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral\.plugin_symlinks\flutter_localization\windows\flutter_localization_plugin_c_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral\.plugin_symlinks\flutter_localization\windows\flutter_localization_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral\.plugin_symlinks\flutter_localization\windows\include\flutter_localization\flutter_localization_plugin_c_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral\.plugin_symlinks\flutter_localization\windows\flutter_localization_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral\.plugin_symlinks\flutter_localization\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DD7BB234-E3E1-3136-BD57-60EC1D919CC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D727990C-BBE7-3DD0-89AA-C2EAB0BD64AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\UNIVERSIDAD\Servicio_Social\rpsp_proyect\rpsp_main\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C6854517-26D5-38F4-A578-A1C3402E6453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D727990C-BBE7-3DD0-89AA-C2EAB0BD64AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
