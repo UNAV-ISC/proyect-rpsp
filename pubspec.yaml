@@ -1,0 +1,54 @@
+name: rpsp_main
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  get: ^4.6.3
+  font_awesome_flutter: ^10.7.0
+  shared_preferences: ^2.0.6
+  #http: ^1.2.1
+  http: ^0.13.6
+  image_picker: ^1.0.7
+  flutter_launcher_icons: ^0.13.1
+  flutter_switch: ^0.3.2
+  intl: ^0.18.1
+  table_calendar: '>=3.0.9 <3.1.0'
+  flutter_inappwebview: ^6.0.0
+  flutter_localization: ^0.2.0
+  youtube_player_flutter: ^9.0.0-beta.0
+  youtube_api: ^0.9.2
+  video_player: null
+  googleapis: null
+  googleapis_auth: null
+  webview_flutter: ^4.4.2
+  #webview_flutter: ^2.0.4
+  url_launcher: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/plans/
+    - assets/onboarding/
+flutter_intl:
+  enabled: true
+  class_name: S
+  main_locale: en
